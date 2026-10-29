@@ -1,0 +1,28 @@
+# Monthly Sales Performance Analysis Report
+
+## 1. Business Objective
+The purpose of this analysis is to evaluate monthly revenue, costs, and profit from January to May. The goal is to identify performance trends and recommend actions that can improve profitability.
+
+## 2. Key Findings
+- **Total revenue:** ₦1,320,000
+- **Total costs:** ₦780,000
+- **Total profit:** ₦540,000
+- **Overall profit margin:** 40.91%
+- **Best-performing month:** May, with ₦350,000 in revenue and ₦150,000 in profit.
+- **Revenue decline:** Revenue fell by 26.67% from March to April.
+- **Recovery:** Revenue increased by 59.09% from April to May.
+- **Lowest profit margin:** April, at 36.36%.
+
+## 3. Business Interpretation
+The business generated a positive profit in every month. May recorded the highest revenue and profit, while April experienced a noticeable decline. The recovery in May is encouraging, but further information is needed to determine what caused these changes.
+
+## 4. Recommendations
+1. Investigate why revenue declined in April.
+2. Examine May's sales activities to identify factors that may have contributed to the recovery.
+3. Monitor monthly revenue, costs, profit, and profit margin.
+4. Collect additional product and customer data to identify the most profitable sales opportunities.
+
+## 5. Conclusion
+The business generated ₦540,000 in profit on ₦1,320,000 in revenue, giving an overall profit margin of 40.91%. Regular performance monitoring and further investigation of monthly changes can support better business decisions.
+
+*Note: The dataset is a practice dataset created for learning purposes, not verified financial data from a real business.*
