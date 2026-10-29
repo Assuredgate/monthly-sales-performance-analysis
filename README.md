@@ -44,6 +44,9 @@ This beginner Data Analytics project examines monthly business performance from 
 
 ## Conclusion
 This project demonstrates practical skills in spreadsheet calculations, business performance analysis, visualisation, and communicating findings to support decision-making.
+https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard%20(2).png
+https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard%2C.png
+https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard.png
 
 *Note: This is a practice dataset created for learning purposes, not verified financial data from a real business.*
 
