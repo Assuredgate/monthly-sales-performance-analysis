@@ -49,6 +49,18 @@ https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/mont
 https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard.png
 https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard%20(2).png
 ## Dashboard Screenshot
+## Dashboard Visualisations
+
+### 1. Monthly Revenue, Cost and Profit
+![Monthly Revenue, Cost and Profit](monthly%20sales%20dashboard.png)
+
+### 2. Monthly Product Profit
+![Monthly Product Profit](monthly%20product%20profit.png)
+
+### 3. Monthly Product Revenue, Profit and Cost
+![Monthly Product Revenue, Profit and Cost](monthly%20product%20revenue%20profit%20and%20cost.png)
+
+
 
 ![Monthly Sales Performance Dashboard](monthly%20sales%20dashboard%20charts.png)
 *Note: This is a practice dataset created for learning purposes, not verified financial data from a real business.*
