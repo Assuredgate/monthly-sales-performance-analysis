@@ -48,5 +48,8 @@ This project demonstrates practical skills in spreadsheet calculations, business
 https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard%2C.png
 https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard.png
 https://github.com/Assuredgate/monthly-sales-performance-analysis/blob/main/monthly%20sales%20dashboard%20(2).png
+## Dashboard Screenshot
+
+![Monthly Sales Performance Dashboard](monthly%20sales%20dashboard%20charts.png)
 *Note: This is a practice dataset created for learning purposes, not verified financial data from a real business.*
 
